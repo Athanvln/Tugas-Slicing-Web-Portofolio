@@ -45,5 +45,28 @@ Fitur-Fitur Utama Website
 
 
 Screenshot Tampilan Website
+1. Home
 <img width="1917" height="910" alt="Screenshot 2026-09-24 184923" src="https://github.com/user-attachments/assets/534aca44-779c-411b-aeae-9238728e506a" />
+
+2. Home(light Mode)
+<img width="1917" height="911" alt="Screenshot 2026-09-24 184941" src="https://github.com/user-attachments/assets/6982a0d9-e456-4c3c-9d74-c7c9f8659198" />
+
+3. Skils & tools
+<img width="1917" height="906" alt="Screenshot 2026-09-24 184954" src="https://github.com/user-attachments/assets/60c3eace-1919-4c13-ae85-f9810dfa9fa7" />
+
+4. Personal Projects
+<img width="1897" height="907" alt="Screenshot 2026-09-24 185019" src="https://github.com/user-attachments/assets/ab88269f-0023-429e-a68b-70ac7656eeb5" />
+
+5. Educations
+Mobile
+<img width="532" height="795" alt="Screenshot 2026-09-24 185116" src="https://github.com/user-attachments/assets/cce94891-88a3-495c-afff-cbbc0b2caaac" />
+Pc
+<img width="1897" height="910" alt="Screenshot 2026-09-24 185132" src="https://github.com/user-attachments/assets/441e6cf7-a6ed-485e-9832-1c1a99293fc1" />
+
+6.Contact
+<img width="1902" height="910" alt="Screenshot 2026-09-24 185148" src="https://github.com/user-attachments/assets/2cd3eaa8-d4f8-4884-a17a-d60784b15fe0" />
+
+
+
+
 
