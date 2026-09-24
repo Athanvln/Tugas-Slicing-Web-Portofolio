@@ -45,4 +45,5 @@ Fitur-Fitur Utama Website
 
 
 Screenshot Tampilan Website
+<img width="1917" height="910" alt="Screenshot 2026-09-24 184923" src="https://github.com/user-attachments/assets/534aca44-779c-411b-aeae-9238728e506a" />
 
